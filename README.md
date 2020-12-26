@@ -27,20 +27,20 @@
 
 ## Steps to Setup the React Front end (client)
 
-1. First go to the `client` folder -
+1. **First go to the `client` folder**
 
 ```bash
 cd client
 ```
 
-2, Then type the following command to install the dependencies and start the application -
+2. **Then type the following command to install the dependencies and start the application**
 
 ```bash
 npm install
 npm start
 ```
 
-The front-end server will start on port `3000`.
+**The front-end server will start on port `3000` **
 
 	The client will start on port `3000`. You'll be able to access the complete application on `http://localhost:3000`.
 
