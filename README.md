@@ -1,6 +1,6 @@
 
 
-## Building a Full Stack Npci app component with Spring Boot, React and MySQL
+Npci app component with Spring Boot, React and MySQL
 
 ## Steps to Setup the Spring Boot Back end app (server)
 
