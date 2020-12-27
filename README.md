@@ -113,8 +113,6 @@ I used VSCODE for frontend, eclipse IDE for backend and mysql workbench for data
 ![Profile page][7]
 
 
-## Github Link - https://github.com/rahat108/Npci-hackerearth
-
 
   [1]: https://he-s3.s3.amazonaws.com/media/uploads/01c9a06.png
   [2]: https://he-s3.s3.amazonaws.com/media/uploads/40234b8.png
