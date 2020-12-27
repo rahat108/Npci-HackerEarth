@@ -2,8 +2,6 @@
 
 ## Npci super application with Spring Boot, React and MySQL
 
-## Github Link - https://github.com/rahat108/Npci-hackerearth
-
 ## Google drive Link - https://drive.google.com/file/d/1yTcOOcVt6CZTBtVK4dKv_Rj5k1LuTPhd/view?usp=sharing
 
 ## Steps to Setup the Spring Boot Back end (server)
